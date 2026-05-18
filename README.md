@@ -39,6 +39,12 @@
 
 ---
 
-## 📸 Скриншоты интерфейса
+## 📸 Интерфейс приложения (Screenshots)
 
-*[Сюда будут добавлены скриншоты приложения]*
+| Многофакторный калькулятор | Учет квот и профиля абитуриента |
+|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/2706b192-2e90-4edf-b555-e04d1bde6747" width="300"> | <img src="https://github.com/user-attachments/assets/0ebb64f6-4492-4bfa-872a-044cded7299f" width="300"> |
+
+| Агрегатор рынка труда (Data via HH.kz) | Entity AI Ассистент |
+|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/d9dabfb3-e25d-43a7-b4c7-3119158665a0" width="300"> | <img src="https://github.com/user-attachments/assets/fd2b912d-e3ff-4e20-8d92-ca7e2a528295" width="300"> |
